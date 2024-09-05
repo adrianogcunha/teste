@@ -1,0 +1,1 @@
+Ligaria um interrupto e verificaria qual era, edepois ligaria o segundo e verificaria qual era, ou seja iria duas vezes. E o terceiro seria o que sobrou.
